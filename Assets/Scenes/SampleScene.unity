@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e267e99530f62d0489cbef4faefe7ac6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  toy: {fileID: 6038568952425758219, guid: 54637bb7917499b49bff47592ae333b9, type: 3}
+  toy: {fileID: 844536447258792250, guid: 6b1d0ba000170e846a0849c62bc85f24, type: 3}
   spawn: {fileID: 99120026}
   timer: 5
 --- !u!4 &99120028
