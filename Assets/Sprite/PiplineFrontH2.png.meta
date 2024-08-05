@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 454f6fb0e8b0c3d44b2122879d99d25d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4483123265154350631
+    second: PiplineFrontH2_0
+  - first:
+      213: 4459620301266771871
+    second: PiplineFrontH2_1
+  - first:
+      213: 3417711680621770745
+    second: PiplineFrontH2_2
+  - first:
+      213: 4765253103692126667
+    second: PiplineFrontH2_3
+  - first:
+      213: 3278289037630402526
+    second: PiplineFrontH2_4
+  - first:
+      213: 2483372695850746151
+    second: PiplineFrontH2_5
+  - first:
+      213: -3986326050134357245
+    second: PiplineFrontH2_6
+  - first:
+      213: -3886800182103437005
+    second: PiplineFrontH2_7
+  - first:
+      213: 3357526591783819185
+    second: PiplineFrontH2_8
+  - first:
+      213: 1056686893412984013
+    second: PiplineFrontH2_9
+  - first:
+      213: -4502483715622706440
+    second: PiplineFrontH2_10
+  - first:
+      213: 4067134560260034802
+    second: PiplineFrontH2_11
+  - first:
+      213: -9090167730276610261
+    second: PiplineFrontH2_12
+  - first:
+      213: -7433346078506846888
+    second: PiplineFrontH2_13
+  - first:
+      213: -3316825418776452564
+    second: PiplineFrontH2_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PiplineFrontH2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d18f28942fb8c1c0800000000000000
+      internalID: -4483123265154350631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f50223901c3ed30800000000000000
+      internalID: 4459620301266771871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_2
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7f92c6aa62e6f20800000000000000
+      internalID: 3417711680621770745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9956e4374912240800000000000000
+      internalID: 4765253103692126667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_4
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf6407b282de7d20800000000000000
+      internalID: 3278289037630402526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_5
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72186153f46b67220800000000000000
+      internalID: 2483372695850746151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_6
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b0bdee399bda8c0800000000000000
+      internalID: -3986326050134357245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_7
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3311dc8d3df4f0ac0800000000000000
+      internalID: -3886800182103437005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_8
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7d33375a4589e20800000000000000
+      internalID: 3357526591783819185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_9
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc421b8812b1aae00800000000000000
+      internalID: 1056686893412984013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_10
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2e3537ae6f381c0800000000000000
+      internalID: -4502483715622706440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_11
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0930e755d517830800000000000000
+      internalID: 4067134560260034802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_12
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fc4207c9c39d180800000000000000
+      internalID: -9090167730276610261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_13
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 13
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8557e0a002377d890800000000000000
+      internalID: -7433346078506846888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiplineFrontH2_14
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 13
+        width: 181
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22e7dbdad448f1d0800000000000000
+      internalID: -3316825418776452564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PiplineFrontH2_0: -4483123265154350631
+      PiplineFrontH2_1: 4459620301266771871
+      PiplineFrontH2_10: -4502483715622706440
+      PiplineFrontH2_11: 4067134560260034802
+      PiplineFrontH2_12: -9090167730276610261
+      PiplineFrontH2_13: -7433346078506846888
+      PiplineFrontH2_14: -3316825418776452564
+      PiplineFrontH2_2: 3417711680621770745
+      PiplineFrontH2_3: 4765253103692126667
+      PiplineFrontH2_4: 3278289037630402526
+      PiplineFrontH2_5: 2483372695850746151
+      PiplineFrontH2_6: -3986326050134357245
+      PiplineFrontH2_7: -3886800182103437005
+      PiplineFrontH2_8: 3357526591783819185
+      PiplineFrontH2_9: 1056686893412984013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
